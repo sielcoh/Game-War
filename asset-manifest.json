@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Game-War/static/css/main.f4a61b7d.css",
+    "main.js": "/Game-War/static/js/main.2e57cf68.js",
+    "static/js/787.2b81632e.chunk.js": "/Game-War/static/js/787.2b81632e.chunk.js",
+    "index.html": "/Game-War/index.html",
+    "main.f4a61b7d.css.map": "/Game-War/static/css/main.f4a61b7d.css.map",
+    "main.2e57cf68.js.map": "/Game-War/static/js/main.2e57cf68.js.map",
+    "787.2b81632e.chunk.js.map": "/Game-War/static/js/787.2b81632e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4a61b7d.css",
+    "static/js/main.2e57cf68.js"
+  ]
+}
